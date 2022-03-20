@@ -1,0 +1,15 @@
+C:\Users\Marina\Documents\DIO\Files\Workspace2\bin\Debug\net6.0\Workspace2.exe
+C:\Users\Marina\Documents\DIO\Files\Workspace2\bin\Debug\net6.0\Workspace2.deps.json
+C:\Users\Marina\Documents\DIO\Files\Workspace2\bin\Debug\net6.0\Workspace2.runtimeconfig.json
+C:\Users\Marina\Documents\DIO\Files\Workspace2\bin\Debug\net6.0\Workspace2.dll
+C:\Users\Marina\Documents\DIO\Files\Workspace2\bin\Debug\net6.0\Workspace2.pdb
+C:\Users\Marina\Documents\DIO\Files\Workspace2\obj\Debug\net6.0\Workspace2.csproj.AssemblyReference.cache
+C:\Users\Marina\Documents\DIO\Files\Workspace2\obj\Debug\net6.0\Workspace2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Documents\DIO\Files\Workspace2\obj\Debug\net6.0\Workspace2.AssemblyInfoInputs.cache
+C:\Users\Marina\Documents\DIO\Files\Workspace2\obj\Debug\net6.0\Workspace2.AssemblyInfo.cs
+C:\Users\Marina\Documents\DIO\Files\Workspace2\obj\Debug\net6.0\Workspace2.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Documents\DIO\Files\Workspace2\obj\Debug\net6.0\Workspace2.dll
+C:\Users\Marina\Documents\DIO\Files\Workspace2\obj\Debug\net6.0\refint\Workspace2.dll
+C:\Users\Marina\Documents\DIO\Files\Workspace2\obj\Debug\net6.0\Workspace2.pdb
+C:\Users\Marina\Documents\DIO\Files\Workspace2\obj\Debug\net6.0\Workspace2.genruntimeconfig.cache
+C:\Users\Marina\Documents\DIO\Files\Workspace2\obj\Debug\net6.0\ref\Workspace2.dll

@@ -1,0 +1,15 @@
+C:\Users\Marina\Documents\DIO\Workspace\bin\Debug\net6.0\file_info_.exe
+C:\Users\Marina\Documents\DIO\Workspace\bin\Debug\net6.0\file_info_.deps.json
+C:\Users\Marina\Documents\DIO\Workspace\bin\Debug\net6.0\file_info_.runtimeconfig.json
+C:\Users\Marina\Documents\DIO\Workspace\bin\Debug\net6.0\file_info_.dll
+C:\Users\Marina\Documents\DIO\Workspace\bin\Debug\net6.0\file_info_.pdb
+C:\Users\Marina\Documents\DIO\Workspace\obj\Debug\net6.0\file_info_.csproj.AssemblyReference.cache
+C:\Users\Marina\Documents\DIO\Workspace\obj\Debug\net6.0\file_info_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Documents\DIO\Workspace\obj\Debug\net6.0\file_info_.AssemblyInfoInputs.cache
+C:\Users\Marina\Documents\DIO\Workspace\obj\Debug\net6.0\file_info_.AssemblyInfo.cs
+C:\Users\Marina\Documents\DIO\Workspace\obj\Debug\net6.0\file_info_.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Documents\DIO\Workspace\obj\Debug\net6.0\file_info_.dll
+C:\Users\Marina\Documents\DIO\Workspace\obj\Debug\net6.0\refint\file_info_.dll
+C:\Users\Marina\Documents\DIO\Workspace\obj\Debug\net6.0\file_info_.pdb
+C:\Users\Marina\Documents\DIO\Workspace\obj\Debug\net6.0\file_info_.genruntimeconfig.cache
+C:\Users\Marina\Documents\DIO\Workspace\obj\Debug\net6.0\ref\file_info_.dll
